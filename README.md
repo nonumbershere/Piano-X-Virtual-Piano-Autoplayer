@@ -24,3 +24,4 @@
   
 <h1>About</h1>
 Piano X is a <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey</a> script, you can get it at <a href="">GreasyFork</a>.
+<b>You will be able to get the newer or beta versions on the GitHub</a>
