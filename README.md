@@ -10,7 +10,8 @@
 
 1) You first should <a href="">Download TamperMonkey</a> 
 2) And <a href="">Download the script!</a>
-3) Go to any piano website, you can try:
+
+These are the support piano websites:
 
    <a href="">[ PianoRhythm ]</a>
    
