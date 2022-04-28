@@ -26,10 +26,10 @@ These are the support piano websites:
 <h1>How To Use</h1>
 
 **Hotkeys:**
-| Reset      | Start | Set Sheets     |
-| :---        |    :----:   |          ---: |
-| **'**      | **=**       | **;**   |
-| **"**   | **+**        | **:**      |
+| Reset      | Start | Hotkeys | Set Sheets     |
+| :---       |    :----:   |          :---: | ---: |
+| **'**      | **=**       | **[**   | **;** |
+| **"**      | **-**       | **]**   | **:** |
 
 <h1>About</h1>
 Piano X is a <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey</a> script, you can get it at <a href="">GreasyFork</a>.
