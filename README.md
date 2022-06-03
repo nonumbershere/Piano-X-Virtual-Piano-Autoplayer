@@ -11,17 +11,17 @@
 1) You first should <a href="">Download TamperMonkey</a> 
 2) And <a href="">Download the script!</a>
 
-These are the support piano websites:
+These are the supported piano websites:
 
-   <a href="">[ PianoRhythm ]</a>
+<p>   </p> <a href="">[ PianoRhythm ]</a>
    
-   <a href="">[ Multiplayer Piano ]</a>
+<p>   </p> <a href="">[ Multiplayer Piano ]</a>
    
-   <a href="">[ Virtual Piano ]</a>
+<p>   </p> <a href="">[ Virtual Piano ]</a>
    
-   <a href="">[ OnlinePianist ]</a>
+<p>   </p><a href="">[ OnlinePianist ]</a>
    
-   <a href="">[ Recursive Arts Piano ]</a>
+<p>   </p><a href="">[ Recursive Arts Piano ]</a>
   
 <h1>How To Use</h1>
 
